@@ -1,0 +1,17 @@
+# Build
+bin/
+obj/
+
+# Environnement
+.env
+
+# Base SQLite locale
+*.db
+*.db-shm
+*.db-wal
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
